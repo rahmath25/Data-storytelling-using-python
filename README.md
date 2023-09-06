@@ -129,4 +129,4 @@ Overall, this process helped us categorize products based on keywords and regex 
 **product** and **orderlines** tables are merged and discount is calculated by following formula. Discount is calculated by **(product.price - orderlines.unit_price)/(orderlines.unit_price)**
 ## Data Analysis, Data Visualization and Conclusion
 
-The process of **Data Analysis**, **Visualization**, and drawing **Conclusions** has been comprehensively presented through a [PowerPoint presentation](https://docs.google.com/presentation/d/1sIlop0RNP5RHv3d-1m-w_xU1t8leh_vb1-K1AHQsark/edit?usp=sharing).
+The process of **Data Analysis**, **Visualization**, and drawing **Conclusions** has been presented through a [PowerPoint presentation](https://docs.google.com/presentation/d/1sIlop0RNP5RHv3d-1m-w_xU1t8leh_vb1-K1AHQsark/edit?usp=sharing).
